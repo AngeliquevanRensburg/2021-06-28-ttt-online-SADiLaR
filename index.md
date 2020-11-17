@@ -157,10 +157,10 @@ as an instructor: the details are available at
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
-<h3>Application</h3>
+<!-- <h3>Application</h3>-->
 
-Pleaes use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
-Successful candidates will be notified via email.
+<!-- Please use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
+Successful candidates will be notified via email. -->
 
 
 <h3>Code of Conduct</h3>
@@ -219,7 +219,7 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
+  Please see <a href="https://drive.google.com/file/d/1MWpJvdTgl8fd0nxD7MqAQ5IsRVzw4OK7/view">this site</a> for course material and tentative schedule.
 </p>
 
 
@@ -276,7 +276,7 @@ for more information.
   advance or on the first day; either way, make sure you push changes
   to GitHub after you have its URL.  To create an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      https://pad.carpentries.org/2020-11-23-ttt-online-ethiopia
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
