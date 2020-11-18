@@ -160,7 +160,7 @@ or anything else, please get in touch.
 
 <h3>Application</h3>
 
-Please use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
+Please use this <a href ="https://amy.carpentries.org/forms/request_training/"><b>application form</b></a>.
 Successful candidates will be notified via email.
 
 
