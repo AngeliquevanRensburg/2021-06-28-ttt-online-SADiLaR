@@ -158,10 +158,10 @@ as an instructor: the details are available at
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
-<!-- <h3>Application</h3>-->
+<h3>Application</h3>
 
-<!-- Please use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
-Successful candidates will be notified via email. -->
+Please use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
+Successful candidates will be notified via email.
 
 
 <h3>Code of Conduct</h3>
