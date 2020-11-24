@@ -11,7 +11,7 @@ enddate: 2020-11-26        # machine-readable end date for the workshop in YYYY-
 instructor: ["Margareth Gfrerer", "Angelique van Rensburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Yonas Dimessew"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["margareth.gfrerer@gmx.net"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:   https://pad.carpentries.org/2020-11-23-ttt-online-ethiopia          # optional: URL for the workshop Etherpad if there is one
+etherpad:   https://zumpad.zum.de/p/Instructor_Training          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
