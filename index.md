@@ -11,7 +11,7 @@ enddate: 2020-07-02        # machine-readable end date for the workshop in YYYY-
 instructor: ["Juan Steyn", "Angelique van Rensburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["angelique@carpentries.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:   https://zumpad.zum.de/p/Instructor_Training          # optional: URL for the workshop Etherpad if there is one
+etherpad:   https://pad.carpentries.org/2021-06-28-ttt-online-SADiLaR          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
@@ -158,10 +158,10 @@ as an instructor: the details are available at
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
-<h3>Application</h3>
+<!--<h3>Application</h3>
 
-Please use this <a href ="https://amy.carpentries.org/forms/request_training/"><b>application form</b></a>.
-Successful candidates will be notified via email.
+<!--Please use this <a href ="https://amy.carpentries.org/forms/request_training/"><b>application form</b></a>.
+<!--Successful candidates will be notified via email.-->
 
 
 <h3>Code of Conduct</h3>
