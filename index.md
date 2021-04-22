@@ -220,7 +220,7 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="https://docs.google.com/document/d/1u4hQCzhcmUEZHV-2Jo3qDnJBY0kZfS_rtQetscEWKdo/edit">this document</a> for course material and tentative schedule.
+  Please see <a href="https://docs.google.com/document/d/1vWO9iZ2nugVk_BDqdRZTsSR5gFYuE3a1m-8AUKggfDc/edit">this document</a> for course material and schedule.
 </p>
 
 
