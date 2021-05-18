@@ -158,7 +158,7 @@ as an instructor: the details are available at
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
-Please sign-up here: https://forms.gle/9GnVoYRQKNw6QD749
+Please sign-up here: [https://forms.gle/9GnVoYRQKNw6QD749](https://forms.gle/9GnVoYRQKNw6QD749)
 
 <!--<h3>Application</h3>
 
