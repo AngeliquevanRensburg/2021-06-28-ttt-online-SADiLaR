@@ -5,7 +5,7 @@ country: "za"      # lowercase two-letter ISO country code such as "fr" (see htt
 venue: "The Carpentries Instructor Training" 
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "June 28- July 2, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "08:30 am - 13:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "09:30 am - 14:00 pm SAST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-07-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Juan Steyn", "Angelique van Rensburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
