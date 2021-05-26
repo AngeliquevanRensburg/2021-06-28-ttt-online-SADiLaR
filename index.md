@@ -14,7 +14,7 @@ contact: ["angelique@carpentries.org"]    # boxed, comma-separated list of conta
 etherpad:   https://pad.carpentries.org/2021-06-28-ttt-online-SADiLaR          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
+  - venue: "https://carpentries.zoom.us/my/carpentriesroom1"
     address: "TBA"
     
 ---
